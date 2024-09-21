@@ -8,7 +8,7 @@ import EditCategory from './component/Categories/EditCategory';
 import SupplierList from './component/Suppliers/SupplierList';
 import CreateSupplier from './component/Suppliers/CreateSupplier';
 import EditSupplier from './component/Suppliers/EditSupplier';
-import ExpenseList from './component/Expenses/ExpenseList'
+import ExpenseList from './component/Expenses/ExpenseList';
 import CreateExpense from './component/Expenses/CreateExpense';
 import EditExpense from './component/Expenses/EditExpense';
 import ProductList from './component/Products/ProductList';
